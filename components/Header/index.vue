@@ -35,6 +35,7 @@ export default {
   display: flex;
   justify-content: center;
   background-color: white;
+  margin-bottom: 10px;
 
   &--content {
     max-width: 975px;
